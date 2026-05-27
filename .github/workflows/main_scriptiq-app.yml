@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'ScriptIQ-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4838B27310E144C18175545001B5F21F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1F8052AF98E495F98C7FF99B714DA2D }}
